@@ -1,4 +1,4 @@
-<h1 align="center">Bosses Ssekidde</h1>
+<h1 align="center">Bosses Ssekidde ⚡</h1>
 
 <p align="center">
   <code>Aspiring Data Engineer · CS Student · Remote Contractor</code>
@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" style="padding:5px;" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="padding:5px;" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="padding:5px;" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="padding:5px;" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="padding:5px;" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="padding:5px;" title="VS Code"/>
 </p>
 
@@ -39,14 +37,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bosses20&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Bosses20&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosses20&layout=compact&theme=gruvbox&hide_border=true&count_private=true&langs_count=6" height="165"/>
 </p>
 
 <hr/>
 
-### 🔨 Currently Building
+### 🎯 The Plan
+
+**📊 Data - Primary**
+
+`Data Engineering` &nbsp;→&nbsp; `Data Platform Engineering` &nbsp;&nbsp; · &nbsp;&nbsp; *(Data Analytics - secondary, tracking it)*
+
+**⚙️ Infrastructure - Secondary**
+
+`DevOps` &nbsp;→&nbsp; `DevSecOps` &nbsp;→&nbsp; `Platform Engineering` &nbsp;→&nbsp; `MLOps`
+
+---
+
+**Currently learning:**
 
 | | |
 |:--|:--|
@@ -55,7 +65,6 @@
 | 🗄️ | SQL & Data Engineering - DataExperts.io · IBM edX |
 | 🐧 | Linux - Ubuntu Server, bash scripting, sysops fundamentals |
 | ☁️ | Cloud - AWS/GCP basics (on deck) |
-| 🔁 | DevOps roadmap → DevSecOps → MLOps (roadmap.sh) |
 
 > Projects section incoming - when I've actually built something worth showing.
 
@@ -66,9 +75,9 @@
 
 <br/>
 
-Started at 18 from Mukono, Uganda with one obvious realization, that i had to atleast become something, even though i was alone and coming from a humble background.  So I made that the plan.
+Started at 18 from Mukono, Uganda with one obvious realization - that I had to at least become something, even though I was on my own and coming from a humble background. So I made that the plan.
 
-Figured out accounting - did five years of books for a US business from scratch, no prior training, just logic and the fact that nobody else was going to do it. Found out legal documentation wasn't that different - structure, attention to detail, deadlines - and ended up doing remote legal work for a California firm and a handful of other US clients for over a year. Stumbled into infrastructure sales and bid operations for a US energy company, learned what an RFP was the week I had to write one, and it worked out.
+Figured out accounting - did five years of books for a US Company from scratch, no prior training, just logic and the fact that nobody else was going to do it. Found out legal documentation wasn't that different - structure, attention to detail, deadlines - and ended up doing remote legal work for a California firm and a handful of other clients for over a year. Stumbled into infrastructure sales and bid operations for a US energy company, learned what an RFP was the week I had to write one, and it worked out.
 
 Three years of that. Real clients, real deadlines, real money - all remote, all self-taught.
 
