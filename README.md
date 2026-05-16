@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building toward data engineering and cloud infrastructure — one honest project at a time.<br/>
+  Building toward data engineering and cloud infrastructure - one honest project at a time.<br/>
   Based in Mukono, Uganda. Working with US clients remotely since 2022. Currently doing both.
 </p>
 
