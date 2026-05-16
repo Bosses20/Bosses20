@@ -50,14 +50,14 @@
 
 | | |
 |:--|:--|
-| 🎓 | **BS Computer Science** — University of the People *(Expected Apr 2030)* |
-| 🐍 | Python — Boot.dev · CS50 (edX) · FreeCodeCamp |
-| 🗄️ | SQL & Data Engineering — DataExperts.io · IBM edX |
-| 🐧 | Linux — Ubuntu Server, bash scripting, sysops fundamentals |
-| ☁️ | Cloud — AWS/GCP basics (on deck) |
+| 🎓 | **BS Computer Science** - University of the People *(Expected Apr 2030)* |
+| 🐍 | Python - Boot.dev · CS50 (edX) · FreeCodeCamp |
+| 🗄️ | SQL & Data Engineering - DataExperts.io · IBM edX |
+| 🐧 | Linux - Ubuntu Server, bash scripting, sysops fundamentals |
+| ☁️ | Cloud - AWS/GCP basics (on deck) |
 | 🔁 | DevOps roadmap → DevSecOps → MLOps (roadmap.sh) |
 
-> Projects section incoming — when I've actually built something worth showing.
+> Projects section incoming - when I've actually built something worth showing.
 
 <hr/>
 
