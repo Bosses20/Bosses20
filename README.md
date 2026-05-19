@@ -1,4 +1,4 @@
-<h1 align="center">Bosses Ssekidde ⚡ 21 </h1>
+<h1 align="center">Bosses Ssekidde ⚡ </h1>
 
 <p align="center">
   <code>Aspiring Data Engineer · CS Student · Remote Contractor</code>
