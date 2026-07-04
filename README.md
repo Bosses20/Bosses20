@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-matthew-2336a4365/">
+  <a href="https://www.linkedin.com/in/bosses-ssekidde-2336a4365/">
     <img src="https://img.shields.io/badge/LinkedIn-Bosses%20Ssekidde-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -76,11 +76,11 @@
 
 Started at 18 from Mukono, Uganda with one obvious realization - that I had to at least become something, even though I was on my own and coming from a humble background. So I made that the plan.
 
-Figured out accounting - did five years of books for a US Company from scratch, no prior training, just logic and the fact that nobody else was going to do it. Found out legal documentation wasn't that different - structure, attention to detail, deadlines - and ended up doing remote legal work for a California firm and a handful of other clients for over a year. Stumbled into infrastructure sales and bid operations for a US energy company, learned what an RFP was the week I had to write one, and it worked out.
+Figured out accounting - did five years of books for a US Company from scratch, no prior training, just logic and the fact that nobody else was going to do it. Found out legal documentation wasn't tha[...]
 
 Three years of that. Real clients, real deadlines, real money - all remote, all self-taught.
 
-Then I decided that's not enough. I want to build systems, not just manage documents. So now I'm doing a CS degree and actually learning to code properly - Python, SQL, Linux, data engineering - while still doing the contract work.
+Then I decided that's not enough. I want to build systems, not just manage documents. So now I'm doing a CS degree and actually learning to code properly - Python, SQL, Linux, data engineering - while[...]
 
 The target is data engineering and cloud infrastructure. The kind of roles where you build the pipelines and systems that everything else runs on. Not waiting until the degree is done to get there.
 
