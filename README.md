@@ -44,7 +44,7 @@
 
 ### What I'm Into
 
-I've always liked figuring out how things work. Spent time teaching myself tech stuff, and now I'm doing a proper CS degree to understand it better. Right now I'm interested in cloud, data, and infrastructure — the stuff that runs in the background. Haven't pinned down exactly what I want to specialize in yet, but I know I want a solid foundation in programming and systems first.
+I've always liked figuring out how things work. Spent time teaching myself tech stuff, and now I'm doing a proper CS degree to understand it better. Right now I'm interested in cloud, data, and infrastructure - the stuff that runs in the background. Haven't pinned down exactly what I want to specialize in yet, but I know I want a solid foundation in programming and systems first.
 
 **Currently working on:**
 - Learning programming properly (Python, JavaScript, that kind of thing)
