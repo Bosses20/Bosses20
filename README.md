@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building infrastructure that scales, remains secure, and gets out of the way.<br/>
+  Building infrastructure that scales, stays secure, and gets out of the way.<br/>
   Working toward cloud, data, and platform engineering with a foundation in DevSecOps.
 </p>
 
@@ -44,24 +44,24 @@
 
 ### 🎯 Focus Areas
 
-**Infrastructure Engineering** — with depth in:
-- **Cloud & DevOps** — Linux, Docker, CI/CD, infrastructure as code, cloud platforms
-- **Data Systems** — building pipelines, platforms, and infrastructure that moves and serves data
-- **Platform Engineering** — designing systems others can build reliably on top of
-- **Security by Design** — IAM, encryption, least privilege, secure by default
+**Infrastructure Engineering** with depth in:
+- **Cloud & DevOps** - Linux, Docker, CI/CD, infrastructure as code, cloud platforms
+- **Data Systems** - building pipelines, platforms, and infrastructure that moves and serves data
+- **Platform Engineering** - designing systems others can build reliably on top of
+- **Security by Design** - IAM, encryption, least privilege, secure by default
 
 The goal: Design, automate, secure, and operate infrastructure that scales. Not just configure tools.
 
 <hr/>
 
-**Current focus:**
+**Right now:**
 
-- **CS Fundamentals** — University of the People *(Expected Apr 2030)*
-- **Practical Systems** — Linux, bash, networking, hands-on infrastructure
-- **Code & Automation** — Python, scripting, IaC, moving beyond manual ops
-- **Building** — Real projects that matter, shipping working systems
+- **CS Fundamentals** - University of the People (Expected Apr 2030)
+- **Practical Systems** - Linux, bash, networking, hands-on infrastructure work
+- **Code & Automation** - Python, scripting, infrastructure as code, moving beyond manual ops
+- **Building** - Real projects that matter, shipping working systems
 
-> Next: cloud platforms (AWS/GCP), containers, orchestration, and the systems that sit underneath modern applications.
+> Next up: cloud platforms (AWS/GCP), containers, orchestration, and the systems that sit underneath modern applications.
 
 <hr/>
 
@@ -70,12 +70,12 @@ The goal: Design, automate, secure, and operate infrastructure that scales. Not 
 
 <br/>
 
-Started with a clear mission — to build something meaningful. Spent years in operations, learning how to think systematically about complex systems and delivering results under real constraints.
+Started with one clear goal: build something meaningful. Spent years in operations, learning how to think about complex systems and deliver results when things are tight.
 
-Then decided it was time to build the infrastructure itself, not just manage the layers on top. Now doing a CS degree and learning systems properly — Linux, code, cloud, databases, distributed systems — with real projects alongside.
+Then I realized I wanted to build the infrastructure itself, not just work on top of it. So now I'm doing a CS degree and actually learning how systems work from the ground up. Linux, code, cloud, databases, distributed systems. Building real stuff alongside the studying.
 
-The target: infrastructure that doesn't get in the way. That scales. That people trust. The kind of platforms that let other teams do their best work.
+The target is infrastructure that doesn't get in the way. Infrastructure that scales. Infrastructure people can trust. The kind of platforms that let other teams do their best work without fighting the system.
 
-Still grinding.
+I don't have a traditional tech background and honestly, I'm still figuring out what I'm doing. But I'm not stopping either. Let's see where this goes.
 
 </details>
