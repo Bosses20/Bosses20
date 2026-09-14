@@ -1,12 +1,12 @@
-<h1 align="center">Infrastructure Engineer in Progress ⚡ </h1>
+<h1 align="center">Learning to Build Systems ⚡ </h1>
 
 <p align="center">
-  <code>Building Infrastructure · Cloud · Data Systems · Security</code>
+  <code>Interested in Cloud · Data · Infrastructure · Security</code>
 </p>
 
 <p align="center">
-  Building infrastructure that scales, stays secure, and gets out of the way.<br/>
-  Working toward cloud, data, and platform engineering with a foundation in DevSecOps.
+  Figuring out how things work, one project at a time.<br/>
+  Learning Computer Science and building stuff while I figure out what direction to go.
 </p>
 
 <p align="center">
@@ -42,40 +42,31 @@
 
 <hr/>
 
-### 🎯 Focus Areas
+### What I'm Into
 
-**Infrastructure Engineering** with depth in:
-- **Cloud & DevOps** - Linux, Docker, CI/CD, infrastructure as code, cloud platforms
-- **Data Systems** - building pipelines, platforms, and infrastructure that moves and serves data
-- **Platform Engineering** - designing systems others can build reliably on top of
-- **Security by Design** - IAM, encryption, least privilege, secure by default
+I've always liked figuring out how things work. Spent time teaching myself tech stuff, and now I'm doing a proper CS degree to understand it better. Right now I'm interested in cloud, data, and infrastructure — the stuff that runs in the background. Haven't pinned down exactly what I want to specialize in yet, but I know I want a solid foundation in programming and systems first.
 
-The goal: Design, automate, secure, and operate infrastructure that scales. Not just configure tools.
+**Currently working on:**
+- Learning programming properly (Python, JavaScript, that kind of thing)
+- Linux and how systems actually work
+- Understanding cloud and infrastructure
+- Building actual projects instead of just doing tutorials
 
-<hr/>
-
-**Right now:**
-
-- **CS Fundamentals** - University of the People (Expected Apr 2030)
-- **Practical Systems** - Linux, bash, networking, hands-on infrastructure work
-- **Code & Automation** - Python, scripting, infrastructure as code, moving beyond manual ops
-- **Building** - Real projects that matter, shipping working systems
-
-> Next up: cloud platforms (AWS/GCP), containers, orchestration, and the systems that sit underneath modern applications.
+> Not sure where this ends up, but I'm interested in cloud, data infrastructure, and security. We'll see what clicks.
 
 <hr/>
 
 <details>
-<summary>📖 &nbsp;Background</summary>
+<summary>📖 &nbsp;About Me</summary>
 
 <br/>
 
-Started with one clear goal: build something meaningful. Spent years in operations, learning how to think about complex systems and deliver results when things are tight.
+I finished high school in 2024 and decided to do a CS degree at University of the People. Didn't have any formal tech education before that, just picked up stuff on my own because I was curious.
 
-Then I realized I wanted to build the infrastructure itself, not just work on top of it. So now I'm doing a CS degree and actually learning how systems work from the ground up. Linux, code, cloud, databases, distributed systems. Building real stuff alongside the studying.
+I like taking things apart and understanding how they work. Sometimes it's frustrating, but I stick with it. That's basically how I learn anything.
 
-The target is infrastructure that doesn't get in the way. Infrastructure that scales. Infrastructure people can trust. The kind of platforms that let other teams do their best work without fighting the system.
+Outside of the tech stuff, I'm into gaming. Games like Mafia and Hitman are cool to me. Also really into thriller and horror movies, especially ones where you get different stories in one movie.
 
-I don't have a traditional tech background and honestly, I'm still figuring out what I'm doing. But I'm not stopping either. Let's see where this goes.
+I'm pretty persistent and curious. If something interests me, I'll spend way too much time trying to figure it out. I want to bring that same energy into whatever I build.
 
 </details>
